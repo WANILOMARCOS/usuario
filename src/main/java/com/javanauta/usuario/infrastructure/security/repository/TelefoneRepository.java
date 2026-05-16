@@ -1,4 +1,4 @@
-package com.javanauta.usuario.infrastructure.repository;
+package com.javanauta.usuario.infrastructure.security.repository;
 
 import com.Javanauta.apredendoSpring.infrastructure.entity.Telefone;
 import org.springframework.data.jpa.repository.JpaRepository;
